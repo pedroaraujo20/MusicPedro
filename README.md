@@ -1,10 +1,14 @@
 # MusicPedro
 app for android study jams
 
+5 of the best songs ever
+
 COMO USAR O APP!!!
 
 MUSICPED
 
 1- clique no botão play para começar a tocar a primeira música.
+
 2- clique no botão next para pular para a proxima música.
+
 3- clique no botão pause caso queira pausar a musica.
